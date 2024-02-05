@@ -23,11 +23,7 @@ public class MergeArray {
 		return mar;
 		
 	}
-	
-	
-	
-	
-public static void main(String[] args) {
+	public static void main(String[] args) {
 	int arr1[]= {6,7,12,5};
 	int arr2[]= {10,20,30,40,90,100};
 	System.out.println("Before merge:");
